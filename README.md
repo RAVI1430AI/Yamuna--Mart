@@ -1,5 +1,5 @@
 # Yamuna--Mart
-IYamuna Mart: A Shopping App Made with HTML & CSS 
+Yamuna Mart: A Shopping App Made with HTML & CSS 
 Conceptualizing: I sketched out the app's layout, defining key sections like product categories, search bar, and shopping cart.
 Building the Foundation: I started with basic HTML structure, creating sections and divs for different app elements.
 Adding Style: I used CSS to style the app, defining colors, fonts, and layouts for a visually appealing experience.
